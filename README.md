@@ -1,4 +1,6 @@
-### Hi there 👋
+### I really enjoy the view on [Crafton Hills Ridge trail](https://www.google.com/maps/place/Ridge+Trail/@34.0479293,-117.0914505,16z/data=!4m13!1m7!3m6!1s0x80db514e1a820a27:0x83dfad3d706eda56!2sCrafton+Hills+Ridge+Trail,+California!3b1!8m2!3d34.057279!4d-117.0792007!3m4!1s0x0:0xe464f4d81a16b652!8m2!3d34.0481181!4d-117.0935512), so I think I should share it with you guys...
+
+![img](crafton-hills-trail.jpg)
 
 <!--
 **vannizhang/vannizhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
