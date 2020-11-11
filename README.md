@@ -1,5 +1,14 @@
 ### Hi There
 
+I am interested in writing front-end apps using [TypeScript](https://github.com/microsoft/TypeScript), [React](https://reactjs.org/) and [Redux](https://redux.js.org/) (if necessary), [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/index.html), [D3](https://d3js.org/) and VanillaJS.
+
+At [Esri](https://github.com/Esri), I am the lead front-end developer of the [Living Atlas](https://livingatlas.arcgis.com/en/home/) and [Esri Maps for Public Policy](https://livingatlas.arcgis.com/policy/overview/) sites, I also build cool apps to show people what can be done using the Living Atlas contents and ArcGIS API for JavaScript:
+
+- [CovidPulse](https://livingatlas.arcgis.com/covidpulse/)
+- [Wayback](https://livingatlas.arcgis.com/wayback/)
+- [Sea Ice Aware](https://livingatlas.arcgis.com/sea-ice/), [Air Quality Aware](https://livingatlas.arcgis.com/airquality/) and [Hurrican Aware](https://livingatlas.arcgis.com/hurricane/)
+- [Water Balance](https://livingatlas.arcgis.com/waterbalance/)
+
 <!--
 **vannizhang/vannizhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
