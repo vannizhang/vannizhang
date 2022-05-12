@@ -6,9 +6,9 @@ At [Esri](https://github.com/Esri), I lead the front-end development of the [Liv
 
 - [Wayback](https://livingatlas.arcgis.com/wayback/)
 - [CovidPulse](https://livingatlas.arcgis.com/covidpulse/), [UnemploymentPulse](https://livingatlas.arcgis.com/unemploymentpulse/#fips=&@=-95.973,37.735,4)
-- [Vessel Traffic](https://livingatlas.arcgis.com/vessel-traffic/#@=-96.223,38.141,5&time=202006&sublayer=Tow)
 - [Sea Ice Aware](https://livingatlas.arcgis.com/sea-ice/), [Air Quality Aware](https://livingatlas.arcgis.com/airquality/) and [Hurrican Aware](https://livingatlas.arcgis.com/hurricane/)
 - [Water Balance](https://livingatlas.arcgis.com/waterbalance/)
+- [Vessel Traffic](https://livingatlas.arcgis.com/vessel-traffic/#@=-96.223,38.141,5&time=202006&sublayer=Tow)
 
 <!--
 **vannizhang/vannizhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
