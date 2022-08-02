@@ -2,7 +2,7 @@
 
 I am a front-end developer who is interested in writing apps using [TypeScript](https://github.com/microsoft/TypeScript), [React](https://reactjs.org/) and [Redux](https://redux.js.org/) (if necessary), [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/index.html), [D3](https://d3js.org/) and [Vanilla JS](http://vanilla-js.com/).
 
-At [Esri](https://github.com/Esri), I lead the front-end development of the [Living Atlas](https://livingatlas.arcgis.com/en/home/) and [Esri Maps for Public Policy](https://livingatlas.arcgis.com/policy/overview/) sites, I also build cool apps to show people what can be done using ready-to-use contents on Living Atlas along with other Esri technologies, here are some less boring ones:
+At [Esri](https://github.com/Esri), I lead the front-end development of the [Living Atlas](https://livingatlas.arcgis.com/en/home/) team, I also build cool apps to show people what can be done using ready-to-use contents on Living Atlas along with other Esri technologies, here are some less boring ones:
 
 - [Wayback](https://livingatlas.arcgis.com/wayback/)
 - [CovidPulse](https://livingatlas.arcgis.com/covidpulse/), [UnemploymentPulse](https://livingatlas.arcgis.com/unemploymentpulse/#fips=&@=-95.973,37.735,4)
